@@ -35,13 +35,13 @@ Detect the social distance violations in real time using OpenCV and deep learnin
 _💻 Install the dependencies on command line:_
 
 ```sh
-$ pip3 install -r requirement.txt
+$ pip install -r requirement.txt
 ```
 
 _💻 To run the program on command line:_
 
 ```sh
-$ python3 sdd.py
+$ python sdd.py
 ```
 
 </br>
